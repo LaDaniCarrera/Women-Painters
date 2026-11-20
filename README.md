@@ -5,7 +5,7 @@ Women’s contributions and active work in art has a long history of dismissiven
 ## Exploratory phase
 
 - [Problématique](Documentation/Problématique.md)
-- [Artist List's](Documentation/Wiki-List.md)
+- [Artist's Lists](Documentation/Wiki-List.md)
 - [Information catalogue](Documentation/Information-catalogue.md)
 
 ## Relational database
