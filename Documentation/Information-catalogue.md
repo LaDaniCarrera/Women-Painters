@@ -16,7 +16,7 @@ Information that will be required (if available)
 - Living abroad
 - Date deceased
 
-### Lieu
+### Place
 - City or region (in case of many entries in the same space)
 - Type (institution, household, travel, study,)
 - Amount of artwork created in each place
