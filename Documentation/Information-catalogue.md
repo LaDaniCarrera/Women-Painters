@@ -1,53 +1,37 @@
-## Entitie's catalogue
-All basic needed information that will be requiered (if existant)
+## Entities catalogue
+Information that will be required (if available)
 
-### Personne
+### Person
 - Name
 - Date of birth
-- Origin (State inside the Mexican Republic)
+- Place of birth
+- Place of death
 - Family history (economical and social status)
 - Education
 - Occupation
 - Topics in artwork
+- Techniques other than painting (if applicable)
+- Active years
 - Relationship to other names on the list
 - Living abroad
-- 
 - Date deceased
-- 
-    - nom
-    date de naissance
-    lieu de naissance
-    origine
-    formation
-    occupation
-    publications
 
-Organisation
+### Lieu
+- City or region (in case of many entries in the same space)
+- Type (institution, household, travel, study,)
+- Amount of artwork created in each place
+- Dates and duration of stay
 
-    nom
-    type
-    siège
-    fondation
+### Artwork
+- Amount of artwork registered
+- Tecnique
+- Theme or topic
+- Year of creation
+- Place of creation
 
-Lieu
+### Relation between entities
+- Place of contact
+- Date of contact
+- Nature of relationship
+- Collective work (if applicable)
 
-    nom
-    type
-    coordonnées géographiques
-
-Oeuvre
-
-    référence bibliographique
-    année de publication
-    lieu de publication
-
-
-Relations entre objets
-
-N.B. Il n'y a ici que quelques exemples, généralement le domaine des relations est le plus riche et important
-
-    personne est née dans lieu
-    personne est élève de personne
-    personne est membre de organisation
-    oeuvre a pour auteur personne
-    oeuvre a lieu de publication
