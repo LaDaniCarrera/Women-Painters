@@ -4,16 +4,9 @@ Information that will be required (if available)
 ### Person
 - Name
 - Date of birth
-- Place of birth
-- Place of death
 - Family history (economical and social status)
 - Education
-- Occupation
-- Topics in artwork
-- Techniques other than painting (if applicable)
 - Active years
-- Relationship to other names on the list
-- Living abroad
 - Date deceased
 
 ### Place
@@ -21,15 +14,20 @@ Information that will be required (if available)
 - Type (institution, household, travel, study,)
 - Amount of artwork created in each place
 - Dates and duration of stay
+- Place of birth
+- Place of death
+- Living abroad
 
-### Artwork
+### Body of artwork
 - Amount of artwork registered
-- Tecnique
+- Tecniques
 - Theme or topic
+- Techniques other than painting (if applicable)
 - Year of creation
 - Place of creation
 
 ### Relation between entities
+- Relationship to other names on the list
 - Place of contact
 - Date of contact
 - Nature of relationship
